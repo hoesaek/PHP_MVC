@@ -27,6 +27,7 @@ Le projet suit la méthodologie **MVC** (Modèle-Vue-Contrôleur) qui permet de 
 - **Composer** pour la gestion des dépendances PHP
   
 
-`![Accueil](./img/accueil1.png)`.
-`![Accueil2](./img/accueil2.png)`.
-`![Accueil3](./img/accueil3.png)`.
+![Accueil](./img/accueil1.png)
+![Accueil2](./img/accueil2.png)
+![Accueil3](./img/accueil3.png)
+
